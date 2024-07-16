@@ -1,0 +1,23 @@
+
+;; ----- amx-history -----
+(
+ eval-buffer
+ byte-compile-file
+ package-install
+ all-the-icons-install-fonts
+ add-dir-local-variable
+ package-list-packages
+ meow-tutor
+)
+
+;; ----- amx-data -----
+(
+ (eval-buffer . 63)
+ (package-install . 29)
+ (meow-C-d . 1)
+ (meow-tutor . 1)
+ (package-list-packages . 1)
+ (add-dir-local-variable . 2)
+ (all-the-icons-install-fonts . 1)
+ (byte-compile-file . 2)
+)
